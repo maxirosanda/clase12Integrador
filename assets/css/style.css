@@ -1,0 +1,22 @@
+.navbar , footer{
+    background-color: #7d0200 !important;
+    color: white;
+
+}
+
+.imagenFondo{
+    background-image: url(../img/fondo.jpg);
+    color: white;
+}
+.fa-computer-mouse{
+    font-size: 48px;
+}
+.iconosRedes{
+    font-size: 24px;
+}
+
+@media (max-width:992px){
+    .ocultarSm{
+        display: none;
+    }
+}
